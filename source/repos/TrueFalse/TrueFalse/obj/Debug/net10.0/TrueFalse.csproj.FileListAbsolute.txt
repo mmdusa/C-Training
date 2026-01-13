@@ -1,0 +1,5 @@
+C:\Users\moham\source\repos\TrueFalse\TrueFalse\obj\Debug\net10.0\TrueFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\TrueFalse\TrueFalse\obj\Debug\net10.0\TrueFalse.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\TrueFalse\TrueFalse\obj\Debug\net10.0\TrueFalse.AssemblyInfo.cs
+C:\Users\moham\source\repos\TrueFalse\TrueFalse\obj\Debug\net10.0\TrueFalse.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\TrueFalse\TrueFalse\obj\Debug\net10.0\TrueFalse.sourcelink.json

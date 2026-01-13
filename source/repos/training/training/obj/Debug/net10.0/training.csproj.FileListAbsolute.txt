@@ -1,0 +1,15 @@
+C:\Users\moham\source\repos\training\training\bin\Debug\net10.0\training.exe
+C:\Users\moham\source\repos\training\training\bin\Debug\net10.0\training.deps.json
+C:\Users\moham\source\repos\training\training\bin\Debug\net10.0\training.runtimeconfig.json
+C:\Users\moham\source\repos\training\training\bin\Debug\net10.0\training.dll
+C:\Users\moham\source\repos\training\training\bin\Debug\net10.0\training.pdb
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\training.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\training.AssemblyInfo.cs
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\training.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\training.sourcelink.json
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\training.dll
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\refint\training.dll
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\training.pdb
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\training.genruntimeconfig.cache
+C:\Users\moham\source\repos\training\training\obj\Debug\net10.0\ref\training.dll
