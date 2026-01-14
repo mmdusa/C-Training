@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\Stellar Lifecycle Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{607DD247-3D80-8E26-DBC4-A1B5C514EAC6}|Stellar Lifecycle Simulator\\Stellar Lifecycle Simulator.csproj|c:\\users\\moham\\source\\repos\\stellar lifecycle simulator\\stellar lifecycle simulator\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607DD247-3D80-8E26-DBC4-A1B5C514EAC6}|Stellar Lifecycle Simulator\\Stellar Lifecycle Simulator.csproj|solutionrelative:stellar lifecycle simulator\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607DD247-3D80-8E26-DBC4-A1B5C514EAC6}|Stellar Lifecycle Simulator\\Stellar Lifecycle Simulator.csproj|c:\\users\\moham\\source\\repos\\stellar lifecycle simulator\\stellar lifecycle simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607DD247-3D80-8E26-DBC4-A1B5C514EAC6}|Stellar Lifecycle Simulator\\Stellar Lifecycle Simulator.csproj|solutionrelative:stellar lifecycle simulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Star.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\Stellar Lifecycle Simulator\\Stellar Lifecycle Simulator\\Star.cs",
+              "RelativeDocumentMoniker": "Stellar Lifecycle Simulator\\Star.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\Stellar Lifecycle Simulator\\Stellar Lifecycle Simulator\\Star.cs",
+              "RelativeToolTip": "Stellar Lifecycle Simulator\\Star.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:42:00.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\Stellar Lifecycle Simulator\\Stellar Lifecycle Simulator\\Program.cs",
+              "RelativeDocumentMoniker": "Stellar Lifecycle Simulator\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\Stellar Lifecycle Simulator\\Stellar Lifecycle Simulator\\Program.cs",
+              "RelativeToolTip": "Stellar Lifecycle Simulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:30:10.226Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
